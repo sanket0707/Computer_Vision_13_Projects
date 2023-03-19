@@ -1,4 +1,4 @@
-# Project 1 - Application of Top 10 ML Algorithms
+### Project 1 - Application of Top 10 ML Algorithms
 # Project 2 - Digital Image Channel Seperation Challenge
 # Project 3 - Sunglass Filter
 # Project 5 - Alpha Blending - Change the Background of your own photo with Eiffel Tower
